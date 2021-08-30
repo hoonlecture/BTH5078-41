@@ -9,5 +9,5 @@
 
 ## 2. Introduction to Unix
 ### 2-1 [Basic Unix](https://github.com/hoonlecture/BTH5078-41/blob/main/tutorial/2-1_Introduction_to_UNIX.md)
-### 2-2 [Samtools](https://github.com/hoonlecture/BTH5078-41/blob/main/2-2_Samtools.md)
+### 2-2 [Samtools](https://github.com/hoonlecture/BTH5078-41/blob/main/tutorial/2-2_Samtools.md)
 
