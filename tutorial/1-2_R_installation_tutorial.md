@@ -38,7 +38,8 @@
 
 
 5. **Search "R studio" and run program.**
-    ***NOTE. click the right mouse button and select “Run as administrator”***
+   
+***NOTE. click the right mouse button and select “Run as administrator”***
 
     <img width="80%" src="https://user-images.githubusercontent.com/88421995/128152872-db0409e8-2278-47f4-abcd-42e617ec1a06.png"/>
     
