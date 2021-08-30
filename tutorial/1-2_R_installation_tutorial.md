@@ -3,11 +3,24 @@
 
 # Windows OS
 
-1. **Search "R for download"** 
+1. **We will install “R-3.6.2”** 
 
-    [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
+    For windows OS [https://cran.r-project.org/bin/windows/base/old/3.6.2/](https://cran.r-project.org/bin/windows/base/old/3.6.2/)
+    
+    ![Rinstall1.png](https://www.dropbox.com/s/r95cl5hzn4gn8je/Rinstall1.png?dl0&raw=1)
 
-    <img width="80%" src="https://user-images.githubusercontent.com/88421995/128152098-7d9efff9-da37-4ca7-8066-428a6f8b51ca.png"/>
+    How do we know whether your os is 32bit or 64bit?
+    
+    ```
+    $ uname -m
+    x86_64 <<<<----- this means 64 bit
+    ```
+    
+    ```
+    $ uname -m
+    i686 or i386 <<<<----- this means 32 bit
+    ```
+   
 
 
 2. **Download and Install with latest version.**
@@ -31,18 +44,18 @@
 
 
 6. **Search "R studio" and run program.**
+    ***NOTE. click the right mouse button and select “Run as administrator”***
 
     <img width="80%" src="https://user-images.githubusercontent.com/88421995/128152872-db0409e8-2278-47f4-abcd-42e617ec1a06.png"/>
-
-
+    ![Rinstall3.png](https://www.dropbox.com/s/cdk8k3mz92a2y47/Rinstall3.png?dl0&raw=1)
    
  # Mac OS
 
- 1. **Search "download R for mac".**
+ 1. **We will install “R-3.6.2”**
 
-    [https://cran.r-project.org/bin/macosx/](https://cran.r-project.org/bin/macosx/)
+    For Mac OS  [https://cran.r-project.org/bin/macosx/el-capitan/base/R-3.6.2.pkg](https://cran.r-project.org/bin/macosx/el-capitan/base/R-3.6.2.pkg)
 
-    <img width="80%" src="https://user-images.githubusercontent.com/88421995/128153400-54523082-b2fa-488d-816d-81276b5f51bd.png"/>
+     ![Rinstall2.png](https://www.dropbox.com/s/6z7rfegao4sk119/Rinstall2.png?dl0&raw=1)
 
 
  2. **Download package latest version.**
