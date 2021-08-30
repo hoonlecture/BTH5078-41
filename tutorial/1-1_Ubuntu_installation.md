@@ -1,5 +1,5 @@
 
-# Installation of Ubuntu
+# Installation of Ubuntu 20.04.3 LTS
 
 ### *NOTE. this is for students who are using Window, so Mac OS users donot require to do this process.*
 
@@ -19,7 +19,7 @@
 
    ![Untitled%20a83aa0b0b5044d9da285058678af2849/Untitled%203.png](https://www.dropbox.com/s/8h8uislg8snvbdh/Untitled%203.jpg?dl0&raw=1)
 
-### 5. Search for the Ubuntu and Click the far left App.
+### 5. Search for the Ubuntu and Click the Ubuntu 20.04.3 LTS.
 
    ![Untitled%20a83aa0b0b5044d9da285058678af2849/Untitled%204.png](https://www.dropbox.com/s/hgn7xyprwtj0h4b/Untitled%204.jpg?dl0&raw=1)
 
