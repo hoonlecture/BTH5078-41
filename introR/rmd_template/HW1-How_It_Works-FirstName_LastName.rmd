@@ -1,0 +1,30 @@
+---
+title: "How It Works"
+output: html_document
+---
+
+
+```{r include = FALSE}
+library(viridis)
+```
+
+The code below deomostrates two color paletters in the [viridis](https://github.com/sjmgarier/viridis) package. Each plot displayes a contour map of the Mounga Wau volcano in Auckland, New Zealand.
+
+
+## Viridis colors
+
+```{r}
+
+image(volcano, col = viridis(200))
+
+```
+
+
+## Magma colors
+```{r}
+
+image(volcano, col = viridis(200, option = "A"))
+
+```
+
+
