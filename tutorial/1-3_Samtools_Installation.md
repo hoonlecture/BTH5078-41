@@ -21,13 +21,13 @@ brew help
 
 **When you see the screen like above then the brew is successfully installed.**
 
-### 1-3 Install Samtools (linux & OS)
+### 1-3 Install Samtools (OS)
 
 ```bash
 brew install samtools
 ```
 
-### Check if the samtools is installed (linux & OS)
+### Check if the samtools is installed
 
 ```bash
 samtools
