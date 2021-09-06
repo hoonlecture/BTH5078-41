@@ -8,48 +8,48 @@ Note. R 3.6.2 or above version recommend an English language setting if you are 
 
 1. Go to the setting (설정) and click the account (계정)
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-36.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-36.png)
+    ![Rsetup1.png](https://www.dropbox.com/s/q7jg4wp51xgol71/Rsetup1.png?dl0&raw=1)
 
 2. Check if the name of your user information is in English
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-31.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-31.png)
+   ![Rsetup2.png](https://www.dropbox.com/s/jv1h1vm65vobnpb/Rsetup2.png?dl0&raw=1)
 
 3. If the name of your user information is not in English then go to "family or other users"
 (가족 및 다른 사용자) and add the new user **(!!!!Create your user name in English without space or dash!!!!)**
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-52 002.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-52_002.png)
+   ![Rsetup3.png](https://www.dropbox.com/s/f5liwsfk7zpqtg1/Rsetup3.png?dl0&raw=1)
 
 4. Go to time and language (시간 및 언어) menu and add English if you don't have English as displaying language.
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-52 003.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-52_003.png)
+     ![Rsetup4.png](https://www.dropbox.com/s/uohqpy245je8uu6/Rsetup4.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-52 006.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-52_006.png)
+    ![Rsetup5.png](https://www.dropbox.com/s/z9mq2nszm8gfwh8/Rsetup5.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-52 004.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-52_004.png)
+    ![Rsetup6.png](https://www.dropbox.com/s/o0w119jt9xvtu2t/Rsetup6.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-52 005.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-52_005.png)
+    ![Rsetup7.png](https://www.dropbox.com/s/n1d7a7hleholbg4/Rsetup7.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-20-46-51 001.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-20-46-51_001.png)
+     ![Rsetup8.png](https://www.dropbox.com/s/xritq2cgyn12bzm/Rsetup8.png?dl0&raw=1)
 
 5. Search for Rtools3.5 
 
-    ![KakaoTalk_Photo_2021-09-06-21-00-08 001.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_001.png)
+    ![Rsetup9.png](https://www.dropbox.com/s/5ivxumvwprrr29v/Rsetup9.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-21-00-08 002.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_002.png)
+    ![Rsetup10.png](https://www.dropbox.com/s/96eecayolgcea52/Rsetup10.png?dl0&raw=1)
 
-    ![KakaoTalk_Photo_2021-09-06-21-00-08 003.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_003.png)
+    ![Rsetup11.png](https://www.dropbox.com/s/orw1mgvoglu4yjz/Rsetup11.png?dl0&raw=1)
 
 6. Install Rtools35
 
 (next>>next>> next>>check add rtools to system path >> next >> install >> finish)
 
-![KakaoTalk_Photo_2021-09-06-21-00-08 004.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_004.png)
+![Rsetup12.png](https://www.dropbox.com/s/3kqy739e8fnqi6z/Rsetup12.png?dl0&raw=1)
 
-![KakaoTalk_Photo_2021-09-06-21-00-08 005.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_005.png)
+![Rsetup13.png](https://www.dropbox.com/s/myalqrh6nl29aoy/Rsetup13.png?dl0&raw=1)
 
-![KakaoTalk_Photo_2021-09-06-21-00-08 006.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_006.png)
+![Rsetup14.png](https://www.dropbox.com/s/453xbfthgyw9ap5/Rsetup14.png?dl0&raw=1)
 
-![KakaoTalk_Photo_2021-09-06-21-00-08 007.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-00-08_007.png)
+![Rsetup15.png](https://www.dropbox.com/s/tragj2n29guy24p/Rsetup15.png?dl0&raw=1)
 
 1. Run Rstudio as administrator (관리자 권한으로 Rstudio를 실행하세요~!!)
 2. Type following code on the R console window
@@ -62,25 +62,24 @@ writeLines('PATH="${RTOOLS_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
 > Sys.which("make")
 "C:\\Rtools\\bin\\make.exe" ### if you see this you succeed
 ```
-
-![KakaoTalk_Photo_2021-09-06-21-07-20.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-07-20.png)
+![Rsetup16.png](https://www.dropbox.com/s/jnahsj1acpcaxiw/Rsetup16.png?dl0&raw=1)
 
 1. Then, we will add the .libPaths() where packages will be installed. **Go to This PC >> Local disk (C:) >> Program Files >> R >> R 3.6.2 >> etc >> find Rprofile.site**
 
-    ![KakaoTalk_Photo_2021-09-06-21-16-02.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-16-02.png)
+    ![Rsetup17.png](https://www.dropbox.com/s/jblidtsx20jsi3b/Rsetup17.png?dl0&raw=1)
 
 2. Right click the [Rprofile.site](http://rprofile.site) and click the Properties (속성). 
 3. Go to Security menu and Click the "USERS" and Click "Edit" 
 
-    ![KakaoTalk_Photo_2021-09-06-21-26-14.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-26-14.png)
+    ![Rsetup18.png](https://www.dropbox.com/s/yh7hbctnev37m2q/Rsetup18.png?dl0&raw=1)
 
 4. Click User and Check the "Full control" box and apply & okay. 
 
-    ![KakaoTalk_Photo_2021-09-06-21-26-19.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-26-19.png)
+    ![Rsetup19.png](https://www.dropbox.com/s/ko6b9yyc92xa6su/Rsetup19.png?dl0&raw=1)
 
 5. Right click the [Rprofile.site](http://rprofile.site) and "Open with" NotePad (메모장)
 
-    ![KakaoTalk_Photo_2021-09-06-21-26-22.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-26-22.png)
+    ![Rsetup20.png](https://www.dropbox.com/s/tfk651xqqshdpqg/Rsetup20.png?dl0&raw=1)
 
     1. At end of the contents of [Rprofile.site](http://rprofile.site) , add the following code and save it.
 
@@ -88,21 +87,21 @@ writeLines('PATH="${RTOOLS_HOME}\\usr\\bin;${PATH}"', con = "~/.Renviron")
     .libPaths("C:/myRproject/Library")
     ```
 
-    ![KakaoTalk_Photo_2021-09-06-21-32-33.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-32-33.png)
+    ![Rsetup21.png](https://www.dropbox.com/s/mo82kzuv4c3cv0e/Rsetup21.png?dl0&raw=1)
 
     1. At local disck (C:), create Directory "myRproejct" >> "Library" 
 
-        ![KakaoTalk_Photo_2021-09-06-21-32-12.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-32-12.png)
+        ![Rsetup22.png](https://www.dropbox.com/s/2yhc7s0xtajbzvu/Rsetup22.png?dl0&raw=1)
 
-        ![KakaoTalk_Photo_2021-09-06-21-37-41.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-37-41.png)
+        ![Rsetup23.png](https://www.dropbox.com/s/5qgawjygduv75em/Rsetup23.png?dl0&raw=1)
 
     1. Run Rstudio as administrator and type **.libPaths()** on console if you see the new path like picture below you are good to go. 
 
-        ![KakaoTalk_Photo_2021-09-06-21-37-17.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-37-17.png)
+        ![Rsetup24.png](https://www.dropbox.com/s/sr51bcapgqv5466/Rsetup24.png?dl0&raw=1)
 
     2. Download & Open the installation script from this link and Run it in Rstudio. (drag all line and click run to install)
 
-        ![KakaoTalk_Photo_2021-09-06-21-41-50.png](Untitled%20750fc653088f431a83c81eecaec00812/KakaoTalk_Photo_2021-09-06-21-41-50.png)
+        ![Rsetup25.png](https://www.dropbox.com/s/yxz8gs8ej1ddn3j/Rsetup25.png?dl0&raw=1)
 
     3. After you installation, Check if "knit Document" function works with an example code below (copy and paste on new R script sheet) and click "file" >> "Knit Document"
 
