@@ -1,4 +1,4 @@
-```
+
 #' If not exist, install, and then load package
 if (!require(viridis)) install.packages('viridis')
 library(viridis)
@@ -27,4 +27,4 @@ ggplot(data = mpg) +
 ggplot(data = mpg) + 
   geom_point(mapping = aes(x = displ, y = hwy, size =class))
   
-```
+
