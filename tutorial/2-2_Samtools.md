@@ -579,7 +579,7 @@ samtools view -f 0x400 sample.sorted.bam | wc -l
 ```
 
 
-## SAMTools calmd/fillmd
+## SAMTools calmd/fillmd (SKIP)
 
 The calmd or fillmd tool is useful for visualising mismatches and insertions in an alignment of a read to a reference genome. For example:
 
