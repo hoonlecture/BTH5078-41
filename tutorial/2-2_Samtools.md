@@ -237,7 +237,7 @@ Another way to see lines
 
 ```
 
-more head -n 50 sample.sam
+more sample.sam
 
 ```
 
