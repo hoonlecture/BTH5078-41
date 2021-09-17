@@ -333,7 +333,7 @@ ls
 Now, let’s exploit the index to extract alignments from the 33rd megabase of chromosome 1. To do this, we use the samtools `view` command, which we will give proper treatment in the next section. For now, just do it without understanding. No really. Do it.
 
 ```
-samtools view sample.sorted.bam 1:33000000-34000000
+samtools view sample.sorted.bam 1:861000-862000
 ```
 
 
@@ -341,7 +341,7 @@ samtools view sample.sorted.bam 1:33000000-34000000
 **Q)** How many alignments are there in this region?
 
 ```
-samtools view sample.sorted.bam 1:33000000-34000000 | wc -l
+samtools view sample.sorted.bam 1:861000-862000 | wc -l
 ```
 
 ## Use IGV to view BAMs
