@@ -1,0 +1,69 @@
+---
+title: "How to use R Markdown"
+author: "Hoon Kim"
+date: "09/01/2021"
+output: html_document
+---
+
+# Write your own comments
+## Write your own comments
+### Write your own comments
+#### Write your own comments
+##### Write your own comments
+###### Write your own comments
+
+
+## A short introduction on how to use R Markdown
+
+A short introduction on how to use R Markdown is available at [rmarkdown](https://rmarkdown.rstudio.com/lesson-1.html).
+
+You don't need to go over all chapters in [rmarkdown](https://rmarkdown.rstudio.com/lesson-1.html), and I think the following short chapters will be sufficient for our course.
+
+- **Introduction**
+- **How It Works**
+- **Code Chunks**
+- **Inline Code**
+- **Code Languages**
+- **Parameters**
+- **Tables**
+- **Markdown Basics**
+
+
+## Load a R package
+```{r include = FALSE}
+library(viridis)
+```
+
+The code below deomostrates two color paletters in the [viridis](https://github.com/sjmgarier/viridis) package. Each plot displayes a contour map of the Mounga Wau volcano in Auckland, New Zealand.
+
+
+## Viridis colors
+
+```{r}
+
+image(volcano, col = viridis(200))
+
+```
+
+
+## Magma colors
+```{r}
+
+image(volcano, col = viridis(200, option = "A"))
+
+```
+
+## Run a shell command
+```{bash}
+
+ls -al
+
+```
+
+
+```{bash}
+
+echo $PWD
+
+```
+
