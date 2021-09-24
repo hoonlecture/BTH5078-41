@@ -5,6 +5,8 @@ date: "09/01/2021"
 output: html_document
 ---
 
+To complie this R markdown file into a html, click **Knit** button.
+
 # Write your own comments
 ## Write your own comments
 ### Write your own comments
